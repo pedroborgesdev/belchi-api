@@ -3,9 +3,9 @@ package database
 import (
 	"fmt"
 
-	"belchi/src/config"
-	"belchi/src/logger"
-	"belchi/src/models"
+	"bellchi/config"
+	"bellchi/logger"
+	"bellchi/models"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

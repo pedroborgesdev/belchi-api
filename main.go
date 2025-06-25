@@ -1,12 +1,12 @@
 package main
 
 import (
-	"belchi/src/config"
-	"belchi/src/database"
-	"belchi/src/debug"
-	"belchi/src/logger"
-	"belchi/src/middlewares"
-	"belchi/src/routes"
+	"bellchi/config"
+	"bellchi/database"
+	"bellchi/debug"
+	"bellchi/logger"
+	"bellchi/middlewares"
+	"bellchi/routes"
 
 	"github.com/gin-gonic/gin"
 )

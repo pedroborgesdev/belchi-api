@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"belchi/src/logger"
-	"belchi/src/services"
-	"belchi/src/utils"
+	"bellchi/logger"
+	"bellchi/services"
+	"bellchi/utils"
 
 	"github.com/gin-gonic/gin"
 )

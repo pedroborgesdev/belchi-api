@@ -1,11 +1,11 @@
 package services
 
 import (
-	"belchi/src/models"
-	"belchi/src/repository"
-	"belchi/src/security"
-	"belchi/src/utils"
-	"belchi/src/validation"
+	"bellchi/models"
+	"bellchi/repository"
+	"bellchi/security"
+	"bellchi/utils"
+	"bellchi/validation"
 	"fmt"
 	"mime/multipart"
 	"os"

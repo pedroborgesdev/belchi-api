@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"belchi/src/database"
-	"belchi/src/models"
+	"bellchi/database"
+	"bellchi/models"
 	"errors"
 
 	"gorm.io/gorm"

@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"time"
 
-	"belchi/src/debug"
+	"bellchi/debug"
 )
 
 type LogDetail struct {

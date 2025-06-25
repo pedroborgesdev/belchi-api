@@ -5,7 +5,7 @@ import (
 
 	"github.com/joho/godotenv"
 
-	"belchi/src/logger"
+	"bellchi/logger"
 )
 
 type Config struct {
@@ -33,13 +33,13 @@ func LoadAppConfig() error {
 	}
 
 	AppConfig = Config{
-		HTTPPort: getEnvStr("HTTPPort", "8080"),
+		HTTPPort: getEnvStr("HTTPPort", "9090"),
 
 		DBHost:    getEnvStr("DBHost", "localhost"),
 		DBPort:    getEnvStr("DBPort", "5432"),
 		DBUser:    getEnvStr("DBUser", "postgres"),
-		DBName:    getEnvStr("DBName", "belchi"),
-		DBPwd:     getEnvStr("DBPwd", "postgres"),
+		DBName:    getEnvStr("DBName", "bellchi"),
+		DBPwd:     getEnvStr("DBPwd", "s1ea021274"),
 		DBSSLMode: getEnvStr("DBSSLMode", "disable"),
 
 		UploadPath: getEnvStr("UploadPath", "uploads/"),

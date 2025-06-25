@@ -1,7 +1,7 @@
 package security
 
 import (
-	"belchi/src/logger"
+	"bellchi/logger"
 
 	"golang.org/x/crypto/bcrypt"
 )

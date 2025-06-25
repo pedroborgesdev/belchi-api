@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"belchi/src/controllers"
-	"belchi/src/middlewares"
+	"bellchi/controllers"
+	"bellchi/middlewares"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

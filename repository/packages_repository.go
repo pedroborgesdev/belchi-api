@@ -1,9 +1,9 @@
 package repository
 
 import (
-	"belchi/src/config"
-	"belchi/src/database"
-	"belchi/src/models"
+	"bellchi/config"
+	"bellchi/database"
+	"bellchi/models"
 	"errors"
 	"io"
 	"mime/multipart"

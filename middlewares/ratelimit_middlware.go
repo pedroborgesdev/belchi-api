@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"belchi/src/logger"
+	"bellchi/logger"
 	"net/http"
 	"sync"
 	"time"

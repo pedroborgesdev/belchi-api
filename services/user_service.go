@@ -1,9 +1,9 @@
 package services
 
 import (
-	"belchi/src/repository"
-	"belchi/src/security"
-	"belchi/src/validation"
+	"bellchi/repository"
+	"bellchi/security"
+	"bellchi/validation"
 
 	"fmt"
 )

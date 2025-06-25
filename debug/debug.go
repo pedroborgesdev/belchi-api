@@ -21,8 +21,8 @@ func LoadDebugConfig() error {
 	}
 
 	DebugConfig = Debug{
-		GinDebug: getEnvBool("GINDEBUG", false),
-		Debug:    getEnvBool("DEBUG", false),
+		GinDebug: getEnvBool("GINDEBUG", true),
+		Debug:    getEnvBool("DEBUG", true),
 	}
 
 	return nil

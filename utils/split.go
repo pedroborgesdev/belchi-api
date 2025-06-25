@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"belchi/src/logger"
+	"bellchi/logger"
 	"strings"
 )
 

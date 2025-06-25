@@ -1,4 +1,4 @@
-module belchi
+module bellchi
 
 go 1.23.0
 
